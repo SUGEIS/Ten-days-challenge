@@ -1,0 +1,58 @@
+.Header{
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+font-size: 50px;
+letter-spacing: 3.2px;
+word-spacing: 3.2px;
+color: #FF82B2;
+font-weight: 1000;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+text-shadow: 8px 8px 6px rgba(0,0,0,0.2) ;
+margin-top:35px;
+}
+
+.box{
+margin-top:38px;
+ width:700px;
+ height:60px;
+ margin-right:50px;
+ margin-left:200px;
+ font-size:30px;
+ 
+
+}
+
+.input button {
+  font-size: 20px; /* Adjust the font size for the button text */
+  padding: 20px; /* Adjust the padding to increase the button's size */
+}
+
+.displaytext{
+  font-size:40px;
+  margin-top:40px;
+  margin-right:50px;
+  margin-left:200px;
+}
+
+.displaytext input[type="checkbox"]{
+  width:25px;
+  height:25px;
+  transform: scale(1.5);
+  margin-left:25px;
+
+
+}
+
+.displaytext button{
+  width:25px;
+  height:25px;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-left:25px;
+}
+
+
+
