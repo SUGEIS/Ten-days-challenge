@@ -1,19 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
+import App from './App';
 // import Login from './components/Login';
 // import Nav from './components/Nav';
-import Calci from './components/Calci';
+// import Calci from './components/Calci';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* < App /> */}
+    < App />
     {/* <Nav/> */}
     {/* <Login/> */}
-    <Calci/>
+    {/* <Calci/> */}
   </React.StrictMode>
 );
 
